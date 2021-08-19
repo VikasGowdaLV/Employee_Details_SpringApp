@@ -8,11 +8,11 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dailycodebuffer</groupId>
-	<artifactId>Spring-boot-tutorial</artifactId>
+	<groupId>com.vikasgowdalv</groupId>
+	<artifactId>EmployeeDBMSpring</artifactId>
 	<version>1.0.0</version>
-	<name>Spring-boot-tutorial</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring-boot-project</name>
+	<description>Project on Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
