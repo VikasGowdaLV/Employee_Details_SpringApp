@@ -58,4 +58,4 @@ spring:
       ddl-auto: update
     show-sql: true
 welcome:
-  message: Welcome to Daily Code Buffer!!
+  message: Welcome to product profile!!
